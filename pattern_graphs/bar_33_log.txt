@@ -1,0 +1,4 @@
+   duration  quantity
+0         4         6
+1         5         5
+2        40         1
